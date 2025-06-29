@@ -25,6 +25,17 @@
 
 ---
 
+## 📚 Research
+
+**Smart Traffic Control System Using Image Processing**  
+*Shakadwipi, A.J., Agarkar, M.P., Ahluwalia, A.M., Jain, S.P., Parakh, A. (2020)*  
+📄 *Published in:* IOSR Journal of Computer Engineering (IOSR-JCE)  
+🔗 [Read the paper (PDF)](https://www.iosrjournals.org/iosr-jce/papers/Vol22-issue6/Series-2/E2206022630.pdf)
+
+> Developed an intelligent traffic control system using image processing to optimize traffic flow and reduce urban congestion.
+
+---
+
 ## 🔎 Looking for Opportunities
 I'm open to **Data Science** or **Analytics** roles in **retail, e-commerce**, or **healthtech** across the UK — hybrid or relocation welcome!
 
